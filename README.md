@@ -1,4 +1,4 @@
-# Nuklear
+# The Nuklear Project
 
 [![](https://github.com/Immediate-Mode-UI/Nuklear/workflows/C%2FC++%20CI/badge.svg )](https://github.com/Immediate-Mode-UI/Nuklear/actions)
 
